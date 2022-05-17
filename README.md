@@ -1,0 +1,2 @@
+# aop_AspectJAndJdbcTemplate
+SpringAop框架AspectJ:包含AspectJ的使用,相关术语,5种通知以及Spring中的JdbcTemplate
